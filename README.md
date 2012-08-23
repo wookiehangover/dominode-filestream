@@ -1,1 +1,2 @@
+[![build status](https://secure.travis-ci.org/wookiehangover/dominode-filestream.png)](http://travis-ci.org/wookiehangover/dominode-filestream)
 # [This project has moved to github.com/wookiehangover/domnode-filestream](http://github.com/wookiehangover/domnode-filestream)
